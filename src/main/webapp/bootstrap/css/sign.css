@@ -1,0 +1,15 @@
+
+/* For drawing line in posted div, adjusting font size and margin */
+#main .posted {
+    border-bottom: 1px solid #ccc; 
+    font-size: 100%;
+    margin-bottom: 12px;
+    padding-bottom: 4px;
+}
+
+
+.form-signin {
+  max-width: 230px;
+}
+	
+ 
